@@ -1,7 +1,7 @@
 # Email_Spam_Detector
 Email Spam Detector using Natural Language Processing and Deep Learning Classifiers.
 In this project, two deep learning classifiers are compared for spam classification problem, Long-Short Term Memory (LSTM) and Convolutional Neural Network (CNN).
-Also, non-sequential models are implemented to integrate Sentiment Ananlysis model using text Blob module, and features extracted from the Feature Engineering stage.
+Also, non-sequential models are implemented to integrate Sentiment Analysis model using text Blob module, and features extracted from the Feature Engineering stage.
 
 1. Preprocessing Datasets:
     - Lemmatization adn Stemming
