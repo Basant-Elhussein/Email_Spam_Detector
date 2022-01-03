@@ -16,4 +16,4 @@ Also, non-sequential models are implemented to integrate Sentiment Analysis mode
     - Number of Filters
     - Number of convolutional / LSTM layers
 
-After comparing between all the impelemented models, LSTM with Sentiment Analysis non-sequential model achieved the highest accuracy of 97.4%
+After comparing between all the implemented models, LSTM with Sentiment Analysis non-sequential model achieved the highest accuracy of 97.4%
