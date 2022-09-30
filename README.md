@@ -4,7 +4,7 @@ In this project, two deep learning classifiers are compared for spam classificat
 Then, the fine-tuned models are integrated, using Keras Functional model API, with Sentiment Analysis model using text Blob module, and features extracted from the Feature Engineering stage. 
 
 1. Preprocessing Datasets:
-    - Lemmatization adn Stemming
+    - Lemmatization and Stemming
     - Removing Stop Words
     - Tokenization
     - Embedding using Keras
